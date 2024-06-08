@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ajay_aj.Github.io/static/css/main.1f3a250c.css",
+    "main.js": "/Ajay_aj.Github.io/static/js/main.a9b0ec15.js",
+    "static/media/bus.jpg": "/Ajay_aj.Github.io/static/media/bus.e5bef1c4008f129f4fb2.jpg",
+    "static/media/Ajay.jpg": "/Ajay_aj.Github.io/static/media/Ajay.c6820e94a0a4c5ddfcbf.jpg",
+    "index.html": "/Ajay_aj.Github.io/index.html",
+    "main.1f3a250c.css.map": "/Ajay_aj.Github.io/static/css/main.1f3a250c.css.map",
+    "main.a9b0ec15.js.map": "/Ajay_aj.Github.io/static/js/main.a9b0ec15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f3a250c.css",
+    "static/js/main.a9b0ec15.js"
+  ]
+}
