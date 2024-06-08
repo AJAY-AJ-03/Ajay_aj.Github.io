@@ -1,0 +1,43 @@
+React Hooks:
+
+//useState
+
+*useState act like javascript variable
+=>we can store values on useState
+->that values changed on one state to another state
+
+Example of useState
+
+import { useState } from "react"
+const App = () => {
+  const[count, setCount] =  useState(0)
+
+  const increment = ()=>{
+    setCount(count+1)
+  }
+
+  const decrement =()=>{
+    setCount(count-1)
+  }
+
+  return (
+  <>
+  count is <h1>{count}</h1>
+  <button onClick={increment}>+</button>
+  <button onClick={decrement}>-</button>
+  </>
+    
+  )
+}
+export default App
+---------------------------------
+
+useEffect
+
+
+useEffect is a hook in React that allows you to perform side effects in function components. Side effects are actions that occur outside the scope of the component, such as data fetching, DOM manipulation, or subscribing to external events.
+
+Functionality: useEffect accepts two parameters: a function and an optional dependency array.
+Function: The first parameter is a function that contains the code you want to execute as a side effect. This function will run after the component has rendered.
+
+Dependency Array: The second parameter is an optional array that contains values (dependencies). If provided, useEffect will re-run the effect only if any of the dependencies have changed since the last render. If the dependency array is omitted, the effect runs after every render.
