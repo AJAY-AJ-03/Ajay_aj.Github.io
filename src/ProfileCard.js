@@ -10,16 +10,16 @@ const ProfileCard = () => {
             <h2 className="profile-name">V. Ajay Rathnam</h2>
             <p className="profile-bio">FullStack Developer</p>
             <div className="social-links">
-                <a href="https://www.instagram.com/a_j_a_y._.aj?igsh=MXhiOWZ2aHd1bXBxMA==" target="_blank" rel="noopener noreferrer" className="instagram">
+                <a href="https://www.instagram.com/sparrow_._0?igsh=eW05dXlvZ3UyN2Z0" target="_blank" rel="noopener noreferrer" className="instagram">
                     <FaInstagram size={30} />
                 </a>
-                <a href="https://wa.me/8903422902" target="_blank" rel="noopener noreferrer" className="whatsapp">
+                <a href="https://wa.me/qr/TQHENQOSBMYDG1" target="_blank" rel="noopener noreferrer" className="whatsapp">
                     <FaWhatsapp size={30} />
                 </a>
-                <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer" className="facebook">
+                <a href="https://www.facebook.com/share/ggJr1shYiDHbzaF9/?mibextid=qi2Omg" target="_blank" rel="noopener noreferrer" className="facebook">
                     <FaFacebook size={30} />
                 </a>
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="linkedin">
+                <a href="www.linkedin.com/in/ajay-rathnam-a1s2d3f4" target="_blank" rel="noopener noreferrer" className="linkedin">
                     <FaLinkedin size={30} />
                 </a>
             </div>
