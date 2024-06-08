@@ -1,4 +1,4 @@
-// src/ProfileCard.js
+
 import React from 'react';
 import './ProfileCard.css';
 import { FaInstagram, FaWhatsapp, FaFacebook, FaLinkedin, FaHeart, FaComment, FaShare } from 'react-icons/fa';
